@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "177830924286",
+    "project_id": "dotz-11aaa",
+    "storage_bucket": "dotz-11aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177830924286:android:93caf3a28d5e76db2d3aaf",
+        "android_client_info": {
+          "package_name": "com.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177830924286-verabb626s4okc5d8uthlgurmbgi5kbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMDd-Kn5lppXrAMMPRqs7mMs_6NkcfPbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177830924286-verabb626s4okc5d8uthlgurmbgi5kbs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "177830924286-hb5ogs9onhskkdrmmvc811ipkrfiaga0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dotz.test"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

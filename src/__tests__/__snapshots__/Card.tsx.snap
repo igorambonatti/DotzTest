@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+      "width": "50%",
+    }
+  }
+  testID="button"
+>
+  <View
+    style={
+      Array [
+        Object {
+          "borderColor": "#fff",
+          "borderRadius": 10,
+          "borderStyle": "solid",
+          "borderWidth": 1,
+          "height": 100,
+          "justifyContent": "center",
+          "marginBottom": 12,
+          "marginLeft": 12,
+          "marginRight": 12,
+          "marginTop": 12,
+          "paddingBottom": 20,
+          "paddingLeft": 20,
+          "paddingRight": 20,
+          "paddingTop": 20,
+        },
+      ]
+    }
+  >
+    <View
+      style={
+        Array [
+          Object {
+            "marginTop": 4,
+          },
+        ]
+      }
+    >
+      <usd
+        color="#fff"
+        name="usd"
+        size={24}
+      />
+    </View>
+    <Text
+      style={
+        Array [
+          Object {
+            "color": "#f4ede8",
+            "fontSize": 18,
+            "height": "80%",
+            "marginLeft": "auto",
+            "marginTop": 15,
+            "textAlign": "right",
+          },
+        ]
+      }
+      testID="title"
+    >
+      Dotz
+    </Text>
+  </View>
+</View>
+`;
